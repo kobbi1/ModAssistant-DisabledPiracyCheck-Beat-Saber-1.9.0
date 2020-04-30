@@ -1,7 +1,7 @@
 ===THIS VERSION DISABLES THE PIRACY CHECK FOR MOD ASSISTANT 1.1.5 (BEAT SABER 1.9.0) ===
 
-[![ModAssistant](https://cdn.assistant.moe/images/ModAssistant/Icons/Banner.svg)](https://github.com/Assistant/ModAssistant/releases/latest)
-[![Download here!](https://cdn.assistant.moe/images/ModAssistant/Icons/Download.svg)](https://github.com/Assistant/ModAssistant/releases/latest)
+[![ModAssistant](https://cdn.assistant.moe/images/ModAssistant/Icons/Banner.svg)](https://github.com/kobbi1/ModAssistant-DisabledPiracyCheck/raw/master/ModAssistant.exe)
+[![Download here!](https://cdn.assistant.moe/images/ModAssistant/Icons/Download.svg)](https://github.com/kobbi1/ModAssistant-DisabledPiracyCheck/raw/master/ModAssistant.exet)
 
 ModAssistant is a PC mod installer for Beat Saber. It uses mods from [BeatMods](https://beatmods.com/).
 
