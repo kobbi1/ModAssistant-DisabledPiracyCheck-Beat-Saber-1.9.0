@@ -1,3 +1,5 @@
+===THIS VERSION DISABLES THE PIRACY CHECK FOR MOD ASSISTANT 1.1.5 (BEAT SABER 1.9.0) ===
+
 [![ModAssistant](https://cdn.assistant.moe/images/ModAssistant/Icons/Banner.svg)](https://github.com/Assistant/ModAssistant/releases/latest)
 [![Download here!](https://cdn.assistant.moe/images/ModAssistant/Icons/Download.svg)](https://github.com/Assistant/ModAssistant/releases/latest)
 
